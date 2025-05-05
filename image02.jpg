@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="247.2" viewBox="0 0 800 247.2" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="247.2" fill="#e74c3c"/>
+  <text x="400" y="100" font-family="sans-serif" font-size="28" fill="white" text-anchor="middle">ありがとうございます。
+長いテキストも表示できます。複数行に渡るテキストも問題ありません。</text>
+</svg>
